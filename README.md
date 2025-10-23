@@ -1,2 +1,1 @@
-# AI-perplexed
-AI Guide for the Perplexed
+# AI for the working scientist
